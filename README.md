@@ -140,13 +140,22 @@
 
 # 
 
-# \## Screenshots
+## Screenshots
 
-# 
+### Home
+The main screen provides quick access to the study planner, settings, and weekly study goal.
 
-# Application screenshots will be added to demonstrate the main features and user interface.
+![Student Study Planner Home](screenshots/home.png)
 
-# 
+### Task Management
+Students can view and manage their academic tasks, including deadlines, task types, priorities, subjects, and completion status.
+
+![Task Management](screenshots/tasks.png)
+
+### Progress Tracking
+The progress tracker allows students to filter their tasks by date range and monitor their completion progress.
+
+![Progress Tracking](screenshots/progress.png)
 
 # \## Future Improvements
 
